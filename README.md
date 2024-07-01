@@ -10,6 +10,8 @@
 + Guess your number.
 + Follow the instructions given in the Console window.
 
+### Images
+----------------------------------------------------------------------------------------
 ![alt text](https://cdn.discordapp.com/attachments/1250420979629559868/1257447552878379040/Ekran_goruntusu_2024-07-02_002536.png?ex=668470ca&is=66831f4a&hm=3bd953297acea41c3f5a0b568503d8b5d888fe883c023bd4be9724deceb0fad5&
 )
 ----------------------------------------------------------------------------------------
